@@ -1,0 +1,9 @@
+app.name,ExampleApp
+app.version,1.0.0
+app.description,This is an example application.
+db.host,localhost
+db.port,3306
+db.username,exampleuser
+db.password,examplepassword
+server.port,8080
+logging.level,INFO
